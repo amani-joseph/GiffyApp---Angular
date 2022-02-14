@@ -1,27 +1,69 @@
-# GiffyApp
+# GithubSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+![Git-Search App]()
 
-## Development server
+### Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p>
+This is an angular application that allows users to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
-## Code scaffolding
+This project was generated with Angular CLI version 13.2.2
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+</p>
 
-## Build
+### Live-link
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p> https://amani-joseph.github.io/githubsearch/</p>
 
-## Running unit tests
+### Development server
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-## Running end-to-end tests
+### Code scaffolding
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
 
-## Further help
+### Build
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+
+### Running unit tests
+
+Run ng test to execute the unit tests via Karma.
+
+### Running end-to-end tests
+
+Run ng e2e to execute the end-to-end tests via Protractor.
+
+### Setup/Installation Requirements
+
+You need to have visual studio code installed.
+Clone the repository
+Generate an api key and store it in the environment
+Go Live.
+
+### Known Bugs
+
+There are no known bugs.
+
+### Technologies Used
+
+- HTML
+- CSS
+- Angular
+- Typescript
+- Bootstrap 5
+
+### Support and contact details
+
+Email : mr.amanijoseph@gmail.com
+
+### License
+
+MIT License
+
+Copyright (c) [2021] [Amani Joseph]
+
+### Further help
+
+To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
