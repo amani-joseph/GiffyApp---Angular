@@ -1,6 +1,6 @@
 # GithubSearch
 
-![Git-Search App]()
+![Git-Search App](https://github.com/amani-joseph/GiffyApp-Angular/blob/alpha/src/assets/giffy-App.png)
 
 ### Description
 
@@ -13,7 +13,7 @@ This project was generated with Angular CLI version 13.2.2
 
 ### Live-link
 
-<p> https://amani-joseph.github.io/githubsearch/</p>
+<p> https://amani-joseph.github.io/GiffyApp-Angular/</p>
 
 ### Development server
 
